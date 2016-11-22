@@ -1,5 +1,5 @@
 {
-    "name": "benjamin/blog",
+    "name": "benjaminyin/blog",
     "repositories": [
         {
             "type": "vcs",
@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "benjamin/hello-world": "dev-master"
+        "benjaminyin/hello-world": "dev-master"
     }
 }
