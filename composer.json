@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "acme/hello-world": "dev-master"
+        "benjamin/hello-world": "dev-master"
     }
 }
